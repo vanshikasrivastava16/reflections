@@ -22,3 +22,9 @@ Forks, clones, and branches are all ways to add new changes without
     repository to another location on GitHub, while you can clone any Git
     repository to anywhere you have access to.
 
+ What is the benefit of having a copy of the last known state of the remote stored locally?
+  Enables you to keep the state of the remote repository at your
+    hand while you work on your branch locally, and also makes it
+    easier for you to merge your own commits to the remote by merging
+    it locally before you push to the remote.
+
