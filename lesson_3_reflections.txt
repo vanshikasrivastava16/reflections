@@ -37,4 +37,12 @@ Forks, clones, and branches are all ways to add new changes without
     system, potentially it might be easier for someone who is not
     aquainted with how to use such system, to contribute to the
     repository.
+    When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+     Working in a separate branch ensures that your master branch is
+    always kept in a working state. You can try and experiment new
+    functionality or algorithm in the new branch untill you are sure
+    it works without breaking anything. On the other hand, an obvious
+    fix for e.g. easy misspelling would not need much experimenting
+    and could be fixed directly in the master branch.
+   
 
